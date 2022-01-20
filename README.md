@@ -5,7 +5,7 @@
 
 - 🔭 Jeg arbejder PT. på en FiveM server [Paradox](https://discord.gg/6rhTgPbAyR)
 
-- 🌱 Arbejder på at udvide viden indenfor **Python og Javascript**
+- 🌱 Arbejder på at udvide viden indenfor **PHP**
 
 - 📫 Kontakt mig på Discord **Flemse#1616**
 
